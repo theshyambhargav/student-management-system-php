@@ -60,4 +60,4 @@ php -S localhost:8000 -t public
 ## Author
 
 Shyam Bhargav
-Full Stack PHP Developer
+Full Stack Developer
